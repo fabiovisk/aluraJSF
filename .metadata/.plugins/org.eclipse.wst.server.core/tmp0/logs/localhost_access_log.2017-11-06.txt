@@ -1,0 +1,9 @@
+127.0.0.1 - - [06/Nov/2017:09:02:55 -0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:14 -0200] "GET /livraria/login.xhtml HTTP/1.1" 200 1417
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:24 -0200] "POST /livraria/login.xhtml HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:24 -0200] "GET /livraria/livro.xhtml HTTP/1.1" 200 8598
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:26 -0200] "POST /livraria/livro.xhtml HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:26 -0200] "GET /livraria/autor.xhtml HTTP/1.1" 200 4754
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:35 -0200] "GET /livraria/autor.xhtml?autorId=3 HTTP/1.1" 200 4777
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:41 -0200] "GET /livraria/autor.xhtml?autorId=3 HTTP/1.1" 200 4777
+0:0:0:0:0:0:0:1 - - [06/Nov/2017:09:03:41 -0200] "GET /favicon.ico HTTP/1.1" 404 973
