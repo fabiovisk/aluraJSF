@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.faces.context.FacesContext"/>
+<fullyQualifiedTypeName name="javax.faces.application.NavigationHandler"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.modelo.Usuario"/>
+<fullyQualifiedTypeName name="javax.faces.application.FacesMessage"/>
+</qualifiedTypeNameHistroy>
