@@ -87,6 +87,10 @@ public class Livro implements Serializable {
 				
 	}
 
+	public void setAutores(List<Autor> autores) {
+		this.autores = autores;
+	}
+
 	
 
 }

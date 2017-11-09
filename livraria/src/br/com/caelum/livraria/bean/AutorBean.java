@@ -31,10 +31,14 @@ public class AutorBean {
 		return autor;
 	}
 
+	public void setAutor(Autor autor) {
+		this.autor = autor;
+	}
+
 	public List<Autor> getAutores() { 
 		return new DAO<Autor>(Autor.class).listaTodos();
 	}
-	
+
 	public String gravar() {
 		System.out.println("Gravando autor " + this.autor.getNome());
 
