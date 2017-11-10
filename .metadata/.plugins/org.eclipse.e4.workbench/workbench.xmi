@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ZmSFYMQkEeeovuS5571NXA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ZmSFYcQkEeeovuS5571NXA" bindingContexts="_ZmTVjcQkEeeovuS5571NXA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;carousel.xhtml&quot; tooltip=&quot;livraria/WebContent/carousel.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/carousel.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Livro.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AutorBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Autor.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;livraria/WebContent/WEB-INF/web.xml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/WEB-INF/web.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;login.xhtml&quot; tooltip=&quot;livraria/WebContent/login.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/login.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;autor.xhtml&quot; tooltip=&quot;livraria/WebContent/autor.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/autor.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;_template.xhtml&quot; tooltip=&quot;livraria/WebContent/_template.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/_template.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/LoginBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/LoginBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LivroBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditorNoSource&quot; name=&quot;PhaseId.class&quot; tooltip=&quot;javax.faces.event.PhaseId&quot;>&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=livraria/\/home\/fabio\/projetos\/aluraJSF\/livraria\/WebContent\/WEB-INF\/lib\/javax.faces-2.2.13.jar&amp;lt;javax.faces.event(PhaseId.class&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Autorizador.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/util/Autorizador.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/util/Autorizador.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsf.facesconfig.ui.FacesConfigEditor&quot; name=&quot;faces-config.xml&quot; tooltip=&quot;livraria/WebContent/WEB-INF/faces-config.xml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/WEB-INF/faces-config.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor&quot; name=&quot;persistence.xml&quot; tooltip=&quot;livraria/src/META-INF/persistence.xml&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/META-INF/persistence.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LivroBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;ring.xhtml&quot; tooltip=&quot;livraria/WebContent/ring.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/ring.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;livro.xhtml&quot; tooltip=&quot;livraria/WebContent/livro.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/livro.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;carousel.xhtml&quot; tooltip=&quot;livraria/WebContent/carousel.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/carousel.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Livro.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AutorBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Autor.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;web.xml&quot; tooltip=&quot;livraria/WebContent/WEB-INF/web.xml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/WEB-INF/web.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;login.xhtml&quot; tooltip=&quot;livraria/WebContent/login.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/login.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;autor.xhtml&quot; tooltip=&quot;livraria/WebContent/autor.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/autor.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;_template.xhtml&quot; tooltip=&quot;livraria/WebContent/_template.xhtml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/_template.xhtml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LoginBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/LoginBean.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/bean/LoginBean.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditorNoSource&quot; name=&quot;PhaseId.class&quot; tooltip=&quot;javax.faces.event.PhaseId&quot;>&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=livraria/\/home\/fabio\/projetos\/aluraJSF\/livraria\/WebContent\/WEB-INF\/lib\/javax.faces-2.2.13.jar&amp;lt;javax.faces.event(PhaseId.class&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Autorizador.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/util/Autorizador.java&quot;>&#xA;&lt;persistable path=&quot;/livraria/src/br/com/caelum/livraria/util/Autorizador.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsf.facesconfig.ui.FacesConfigEditor&quot; name=&quot;faces-config.xml&quot; tooltip=&quot;livraria/WebContent/WEB-INF/faces-config.xml&quot;>&#xA;&lt;persistable path=&quot;/livraria/WebContent/WEB-INF/faces-config.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ZmSFYcQkEeeovuS5571NXA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ZmSFYsQkEeeovuS5571NXA" label="%trimmedwindow.label.eclipseSDK" x="0" y="30" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ZmSFYcQkEeeovuS5571NXA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ZmSFYsQkEeeovuS5571NXA" label="%trimmedwindow.label.eclipseSDK" x="997" y="55" width="949" height="946">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -75,13 +75,13 @@
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.actionSet:org.eclipse.wst.ws.explorer.explorer</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_ZmSFZcQkEeeovuS5571NXA" selectedElement="_ZmSFa8QkEeeovuS5571NXA" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_ZmSFZsQkEeeovuS5571NXA" elementId="topLeft" containerData="2500" selectedElement="_ZmSFZ8QkEeeovuS5571NXA">
+            <children xsi:type="basic:PartStack" xmi:id="_ZmSFZsQkEeeovuS5571NXA" elementId="topLeft" containerData="1874" selectedElement="_ZmSFZ8QkEeeovuS5571NXA">
               <children xsi:type="advanced:Placeholder" xmi:id="_ZmSFZ8QkEeeovuS5571NXA" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_ZmSttMQkEeeovuS5571NXA"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_ZmSFaMQkEeeovuS5571NXA" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_ZmSuBMQkEeeovuS5571NXA"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_ZmSFacQkEeeovuS5571NXA" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_ZmSuBcQkEeeovuS5571NXA"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_ZmSFasQkEeeovuS5571NXA" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_ZmSuBsQkEeeovuS5571NXA"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ZmSFa8QkEeeovuS5571NXA" containerData="7500" selectedElement="_ZmSFccQkEeeovuS5571NXA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ZmSFa8QkEeeovuS5571NXA" containerData="8126" selectedElement="_ZmSFbMQkEeeovuS5571NXA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_ZmSFbMQkEeeovuS5571NXA" containerData="5448" selectedElement="_ZmSFbcQkEeeovuS5571NXA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ZmSFbcQkEeeovuS5571NXA" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_ZmStosQkEeeovuS5571NXA"/>
                 <children xsi:type="basic:PartStack" xmi:id="_ZmSFbsQkEeeovuS5571NXA" elementId="topRight" toBeRendered="false" containerData="3000">
@@ -136,99 +136,25 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_ZmStosQkEeeovuS5571NXA" elementId="org.eclipse.ui.editorss" selectedElement="_ZmSto8QkEeeovuS5571NXA">
-      <children xsi:type="basic:PartStack" xmi:id="_ZmSto8QkEeeovuS5571NXA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_A1OTAMSGEeemYNnduqgtBQ">
+      <children xsi:type="basic:PartStack" xmi:id="_ZmSto8QkEeeovuS5571NXA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_2WINgMWvEeeF-pBtBAUoCA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
         <tags>noFocus</tags>
-        <children xsi:type="basic:Part" xmi:id="_ZmStpMQkEeeovuS5571NXA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="login.xhtml" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;login.xhtml&quot; partName=&quot;login.xhtml&quot; title=&quot;login.xhtml&quot; tooltip=&quot;livraria/WebContent/login.xhtml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/WebContent/login.xhtml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;490&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_o5QCYMWTEeeF-pBtBAUoCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="livro.xhtml" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;livro.xhtml&quot; partName=&quot;livro.xhtml&quot; title=&quot;livro.xhtml&quot; tooltip=&quot;livraria/WebContent/livro.xhtml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/WebContent/livro.xhtml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4686&quot; selectionTopPixel=&quot;1376&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStpcQkEeeovuS5571NXA" elementId="jsf.facelet.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStpsQkEeeovuS5571NXA" elementId="jsf.facelet.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStp8QkEeeovuS5571NXA" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStqMQkEeeovuS5571NXA" elementId="jsf.facelet.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStqcQkEeeovuS5571NXA" elementId="jsf.facelet.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_ZmStqsQkEeeovuS5571NXA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="autor.xhtml" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;autor.xhtml&quot; partName=&quot;autor.xhtml&quot; title=&quot;autor.xhtml&quot; tooltip=&quot;livraria/WebContent/autor.xhtml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/WebContent/autor.xhtml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1819&quot; selectionTopPixel=&quot;398&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStq8QkEeeovuS5571NXA" elementId="jsf.facelet.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStrMQkEeeovuS5571NXA" elementId="jsf.facelet.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStrcQkEeeovuS5571NXA" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStrsQkEeeovuS5571NXA" elementId="jsf.facelet.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ZmStr8QkEeeovuS5571NXA" elementId="jsf.facelet.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:jsf.facelet.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_5wIPsMRxEeemYNnduqgtBQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Autor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Autor.java&quot; partName=&quot;Autor.java&quot; title=&quot;Autor.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Autor.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;525&quot; selectionTopPixel=&quot;186&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_RSuQcMWoEeeF-pBtBAUoCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LivroBean.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LivroBean.java&quot; partName=&quot;LivroBean.java&quot; title=&quot;LivroBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/src/br/com/caelum/livraria/bean/LivroBean.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;9&quot; selectionOffset=&quot;533&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_D_oJkMRyEeemYNnduqgtBQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Livro.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Livro.java&quot; partName=&quot;Livro.java&quot; title=&quot;Livro.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/src/br/com/caelum/livraria/modelo/Livro.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1666&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_gbFdkMRyEeemYNnduqgtBQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AutorBean.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AutorBean.java&quot; partName=&quot;AutorBean.java&quot; title=&quot;AutorBean.java&quot; tooltip=&quot;livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/src/br/com/caelum/livraria/bean/AutorBean.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;5&quot; selectionOffset=&quot;656&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_A1OTAMSGEeemYNnduqgtBQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="carousel.xhtml" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;carousel.xhtml&quot; partName=&quot;carousel.xhtml&quot; title=&quot;carousel.xhtml&quot; tooltip=&quot;livraria/WebContent/carousel.xhtml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/WebContent/carousel.xhtml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1199&quot; selectionTopPixel=&quot;113&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_2WINgMWvEeeF-pBtBAUoCA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ring.xhtml" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;ring.xhtml&quot; partName=&quot;ring.xhtml&quot; title=&quot;ring.xhtml&quot; tooltip=&quot;livraria/WebContent/ring.xhtml&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/livraria/WebContent/ring.xhtml&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1288&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
           <tags>removeOnHide</tags>
@@ -422,7 +348,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZmSuSMQkEeeovuS5571NXA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ugpjsMRqEeemYNnduqgtBQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZmWXwsQkEeeovuS5571NXA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_GaE4cMWTEeeF-pBtBAUoCA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ZmWXwsQkEeeovuS5571NXA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZmSuVcQkEeeovuS5571NXA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -455,7 +381,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZmSuusQkEeeovuS5571NXA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ugr_8MRqEeemYNnduqgtBQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ZmWXZ8QkEeeovuS5571NXA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_GaJJ4MWTEeeF-pBtBAUoCA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ZmWXZ8QkEeeovuS5571NXA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZmSuxsQkEeeovuS5571NXA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

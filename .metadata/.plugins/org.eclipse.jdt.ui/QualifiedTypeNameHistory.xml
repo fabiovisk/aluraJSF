@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="javax.faces.application.NavigationHandler"/>
 <fullyQualifiedTypeName name="br.com.caelum.livraria.modelo.Usuario"/>
 <fullyQualifiedTypeName name="javax.faces.application.FacesMessage"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
