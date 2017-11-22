@@ -1,10 +1,11 @@
 package br.com.caelum.livraria.bean;
 
+import java.io.Serializable;
 import java.util.List;
 
 import javax.faces.application.FacesMessage;
-import javax.faces.bean.ManagedBean;
-import javax.faces.bean.ViewScoped;
+import javax.faces.view.ViewScoped;
+import javax.inject.Named;
 import javax.faces.context.FacesContext;
 
 import br.com.caelum.livraria.dao.DAO;
@@ -12,9 +13,11 @@ import br.com.caelum.livraria.dao.UsuarioDao;
 import br.com.caelum.livraria.modelo.Autor;
 import br.com.caelum.livraria.modelo.Usuario;
 
-@ManagedBean
+@Named
 @ViewScoped
-public class LoginBean {
+public class LoginBean implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
 
 	private Usuario usuario = new Usuario();
 
