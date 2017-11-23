@@ -12,11 +12,21 @@
 <fullyQualifiedTypeName name="org.hibernate.mapping.List"/>
 <fullyQualifiedTypeName name="antlr.collections.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
 <fullyQualifiedTypeName name="javax.enterprise.inject.Produces"/>
 <fullyQualifiedTypeName name="javax.enterprise.context.RequestScoped"/>
 <fullyQualifiedTypeName name="javax.enterprise.inject.Disposes"/>
 <fullyQualifiedTypeName name="br.com.caelum.livraria.dao.LivroDao"/>
 <fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.tx.Transacional"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="javax.interceptor.InterceptorBinding"/>
+<fullyQualifiedTypeName name="javax.interceptor.Interceptor"/>
+<fullyQualifiedTypeName name="javax.interceptor.InvocationContext"/>
+<fullyQualifiedTypeName name="javax.interceptor.AroundInvoke"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>
